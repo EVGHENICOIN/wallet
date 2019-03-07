@@ -1,2 +1,5 @@
 # wallet
 Evcoin
+logo
+real
+
